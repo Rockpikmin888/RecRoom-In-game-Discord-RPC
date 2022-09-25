@@ -1,7 +1,7 @@
 # RecRoom-In-game-Discord-RPC
 Made by: rockpikmin888#8888
 This application gets your status of RecRoom and then applies it to your DiscordRPC.
-This is an application that displays the the presence of your game to your Discord's account RPC.
+This is an application that displays the the presence of your game to your Discord account RPC.
 The only reason this program is obfuscated is to prevent skids from abusing apis to stalk other players.
 Text from file !ReadMe.txt: 
 Make sure you have 2FA off if you want this to work.
