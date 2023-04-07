@@ -1,3 +1,4 @@
+Please go to the release to get the most up to date version
 # RecRoom-In-game-Discord-RPC
 Update: You can keep 2fa on.
 Made by: rockpikmin888#8888
